@@ -1,0 +1,1 @@
+g++ -o main.out main.cpp -lglfw -lGL -lglut
