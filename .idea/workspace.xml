@@ -11,7 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f7e607-1167-4714-b441-380bbc4fea6d" name="Default Changelist" comment="" />
+    <list default="true" id="f9f7e607-1167-4714-b441-380bbc4fea6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.out" beforeDir="false" afterPath="$PROJECT_DIR$/main.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run" beforeDir="false" afterPath="$PROJECT_DIR$/run" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +28,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZZr9kuUheVnYJZrUohAueD5Dln" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cpp" />
     <property name="settings.editor.selected.configurable" value="language.cpp" />
   </component>
   <component name="RunManager">
@@ -49,7 +61,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585057307827</updated>
-      <workItem from="1585057309221" duration="1436000" />
+      <workItem from="1585057309221" duration="1716000" />
+      <workItem from="1585131154288" duration="1168000" />
+      <workItem from="1585137381092" duration="2756000" />
     </task>
     <servers />
   </component>
@@ -57,10 +71,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3094" y="357" width="554" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585058232493">
+    <state x="3094" y="357" width="571" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585135079185">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="3094" y="357" width="554" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1585058232493" />
+    <state x="3094" y="357" width="571" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1585135079185" />
+    <state x="2696" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585135139781">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2696" y="310" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1585135139781" />
     <state x="2818" y="187" key="SettingsEditor" timestamp="1585057836612">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
