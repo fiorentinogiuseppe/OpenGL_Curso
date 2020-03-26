@@ -15,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.out" beforeDir="false" afterPath="$PROJECT_DIR$/main.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run" beforeDir="false" afterPath="$PROJECT_DIR$/run" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,9 @@
       <updated>1585057307827</updated>
       <workItem from="1585057309221" duration="1716000" />
       <workItem from="1585131154288" duration="1168000" />
-      <workItem from="1585137381092" duration="4116000" />
+      <workItem from="1585137381092" duration="4260000" />
+      <workItem from="1585216433500" duration="967000" />
+      <workItem from="1585224395286" duration="2848000" />
     </task>
     <servers />
   </component>
